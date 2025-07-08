@@ -1,0 +1,2 @@
+down-->right-->right-->down-->down-->left-->left-->down-->down-->down-->down-->right-->right-->right-->right-->right-->right-->right-->right-->right-->right-->right-->down-->down-->down-->down-->down-->down-->right-->right-->down-->down
+Total steps:  32
